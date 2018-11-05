@@ -1,0 +1,36 @@
+    1  ssh key gen
+    2  ssh-keygen
+    3  cat ~/.ssh/id_rsa.pub
+    4  clear
+    5  mkdir McGowan_4th_POIT
+    6  terminate
+    7  cd
+    8  ls
+    9  pwd
+   10  mkdir
+   11  mkdir McGowan_4th_POIT
+   12  cd McGowan_4th_POIT
+   13  echo "#McGowan_J_4th_POIT" >> README.md
+   14  git init
+   15  git add README.md
+   16  git commit -m "first commit"
+   17  git remote add origin git@github.com:hearthstoneplayer/McGowan_J_4th_POIT.git
+   18  git push -u origin master
+   19  git commit -m "first commit"
+   20  pwd
+   21  ls
+   22  cd
+   23  cd McGowan_4th_POIT
+   24  history
+   25  git commit -m "first commit"
+   26  echo "# McGowan_J_4th_POIT" >> README.md
+   27  git init
+   28  git add README.md
+   29  git commit -m "first commit"
+   30* 
+   31  git config --global user.name "Your Name"
+   32  git config --global user.name "Huntsmen"
+   33  git commit -m "first commit"
+   34  git remote add origin git@github.com:hearthstoneplayer/McGowan_J_4th_POIT.git
+   35  git push -u origin master
+   36  history > Joshua_M_1105
