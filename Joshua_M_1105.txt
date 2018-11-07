@@ -1,0 +1,71 @@
+    1  ssh key gen
+    2  ssh-keygen
+    3  cat ~/.ssh/id_rsa.pub
+    4  clear
+    5  mkdir McGowan_4th_POIT
+    6  terminate
+    7  cd
+    8  ls
+    9  pwd
+   10  mkdir
+   11  mkdir McGowan_4th_POIT
+   12  cd McGowan_4th_POIT
+   13  echo "#McGowan_J_4th_POIT" >> README.md
+   14  git init
+   15  git add README.md
+   16  git commit -m "first commit"
+   17  git remote add origin git@github.com:hearthstoneplayer/McGowan_J_4th_POIT.git
+   18  git push -u origin master
+   19  git commit -m "first commit"
+   20  pwd
+   21  ls
+   22  cd
+   23  cd McGowan_4th_POIT
+   24  history
+   25  git commit -m "first commit"
+   26  echo "# McGowan_J_4th_POIT" >> README.md
+   27  git init
+   28  git add README.md
+   29  git commit -m "first commit"
+   30  git config --global user.name "Your Name"
+   31  git config --global user.name "Huntsmen"
+   32  git commit -m "first commit"
+   33  git remote add origin git@github.com:hearthstoneplayer/McGowan_J_4th_POIT.git
+   34  git push -u origin master
+   35  history > Joshua_M_1105
+   36  git add Joshua_M_1105
+   37  git push Joshua_M_1105
+   38  git commit -m "Joshua_M_1105"
+   39  git push Joshua_M_1105
+   40  git push "Joshua_M_1105"
+   41  history
+   42  git push "Joshua_M_1105"
+   43  cat Joshua_M_1105
+   44  history > Joshua_M_1105
+   45  git add Joshua_M_1105
+   46  git init
+   47  git push "Joshua_M_1105"
+   48  git remote add origin git@github.com:hearthstoneplayer/McGowan_J_4th_POIT.git
+   49  git add Joshua_M_1105
+   50  git commit -m "Joshua_M_1105
+   51  git commit -m "Joshua_M_1105"
+   52  git push Joshua_M_1105
+   53  git push -u origin master
+   54  git push --help
+   55  git pull Joshua_M_1105
+   56  ls 
+   57  cd McGowan_4th_POIT
+   58  git push Joshua_M_1105
+   59  git remote add origin git@github.com:hearthstoneplayer/McGowan_J_4th_POIT.git
+   60  git commit -m "Joshua_M_1105"
+   61* git push Joshua_M_110
+   62  clear
+   63  history
+   64  git commit -m "second commit"
+   65  history > Joshua_M_1105
+   66  git add Joshua_M_1105
+   67  git commit -m "Joshua_M_1105"
+   68  git config --global user.name "Huntsmen"
+   69  git push Joshua_M_1105
+   70  git push Joshua_M_1105.md
+   71  history > Joshua_M_1105.md
